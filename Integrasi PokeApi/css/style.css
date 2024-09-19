@@ -1,29 +1,4 @@
-.pokemon-card {
-     border: 1px solid #ccc;
-     padding: 15px;
-     border-radius: 10px;
-     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-     text-align: center;
-     background-color: #f9f9f9;
-     margin-bottom: 20px;
- }
- 
- .pokemon-card img {
-     max-width: 100%;
- }
- 
- .pagination .page-item.disabled .page-link {
-     color: #6c757d;
-     pointer-events: none;
-     cursor: not-allowed;
- }
- 
- .pagination .page-item .page-link {
-     color: #007bff;
- }
- 
- .pagination .page-item.active .page-link {
-     background-color: #007bff;
-     border-color: #007bff;
-     color: white;
- }
+body {
+     padding: 0;
+     margin: 0;
+}
