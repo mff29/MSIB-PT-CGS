@@ -1,0 +1,46 @@
+.foto {
+     width: 150px;
+     height: 150px;
+     object-fit: cover;
+     border-radius: 50%;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-link {
+     padding: 0;
+     margin-top: 10px;
+     list-style: none;
+}
+
+.social-link li {
+     display: inline-block;
+     margin-right: 10px;
+}
+
+.social-link a {
+     font-size: 24px;
+     text-decoration: none;
+}
+
+.bio-text {
+     text-align: justify;
+     margin-bottom: 15px;
+}
+
+.bio table {
+     width: 100%;
+     margin-top: 10px;
+}
+
+.bio td {
+     padding: 5px;
+}
+
+.bio tr td a {
+     color: #000;
+     text-decoration: none;
+}
+
+.bio tr td a:hover {
+     color: blue;
+}
